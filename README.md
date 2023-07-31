@@ -13,3 +13,5 @@ Day 5  : Break and continue, practice questions - PrintFactors, CheckPrime, Prin
 Day 6  : Pattern printing
 
 Day 7  : Functions introduction, Question : factorial, Permutation and combination
+
+Day 8  : Started problem-solving with optimized solution - count factors, check prime, sum of first n natural and whole numbers, floor and ceil of a number, difference of product and sum of digits
