@@ -35,7 +35,7 @@ public class Pattern6 {
             int temp = value;
             while (countOfElementsInRow <= numberOfElementsInRow) {
                 System.out.print(temp + " ");
-                if (countOfElementsInRow < (numberOfElementsInRow / 2) + 1) {
+                if (countOfElementsInRow <= (numberOfElementsInRow / 2)) {
                     temp++;
                 } else {
                     temp--;
