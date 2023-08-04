@@ -34,9 +34,9 @@ public class LargestNumberAtLeastTwice {
         }
     }
 
-    public static void printIndexOfMax(int[] arr, int target) {
+    public static void printIndexOfMax(int[] arr, int max) {
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == target) {
+            if (arr[i] == max) {
                 System.out.println(i);
             }
         }
