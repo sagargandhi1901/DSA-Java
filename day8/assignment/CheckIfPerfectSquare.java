@@ -1,4 +1,4 @@
-package day8.homework;
+package day8.assignment;
 
 import java.util.Scanner;
 
