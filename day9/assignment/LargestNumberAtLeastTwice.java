@@ -21,7 +21,7 @@ public class LargestNumberAtLeastTwice {
 
         boolean flag = true;
         for (int i = 0; i < n; i++) {
-            if (max < arr[i] * 2) {
+            if (max != arr[i] && max < arr[i] * 2) {
                 flag = false;
                 break;
             }
