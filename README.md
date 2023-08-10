@@ -18,4 +18,8 @@ Day 8  : Started problem-solving with optimized solution - count factors, check 
 
 Day 9  : Arrays introduction, basic problems on array - sum of array elements, max element, swap index values, reverse array, largest number at least twice
 
-Day 10 : Problems on array - reverse some part of array, rotate array elements k times, atleast one number greater that itself, two sum
+Day 10 : Problems on array - reverse some part of array, rotate array elements k times, atleast one number greater that itself, two sum, max difference problems
+
+Day 11 : 2D arrays, printing matrix in row wise, column wise and zigzag manner
+
+Day 12 : 
