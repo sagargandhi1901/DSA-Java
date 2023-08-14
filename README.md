@@ -22,4 +22,4 @@ Day 10 : Problems on array - reverse some part of array, rotate array elements k
 
 Day 11 : 2D arrays, printing matrix in row wise, column wise and zigzag manner
 
-Day 12 : 
+Day 12 : Strings introduction, problems on string - toggle characters, reverse string, palindrome, insert ascii difference
