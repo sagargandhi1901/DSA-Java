@@ -23,3 +23,5 @@ Day 10 : Problems on array - reverse some part of array, rotate array elements k
 Day 11 : 2D arrays, printing matrix in row wise, column wise and zigzag manner
 
 Day 12 : Strings introduction, problems on string - toggle characters, reverse string, palindrome, insert ascii difference
+
+Day 13 : Bit Manipulation, bitwise operators demo, questions - check even/odd, single unique number in array
