@@ -25,3 +25,7 @@ Day 11 : 2D arrays, printing matrix in row wise, column wise and zigzag manner
 Day 12 : Strings introduction, problems on string - toggle characters, reverse string, palindrome, insert ascii difference
 
 Day 13 : Bit Manipulation, bitwise operators demo, questions - check even/odd, single unique number in array, set kth bit
+
+Day 14 : Hashmap introduction, questions using hashmap - Find frequency, find first non-repeating element, two sum (optimal), HashSet introduction, question on hashset - Distinct elements
+
+Day 15 : 
