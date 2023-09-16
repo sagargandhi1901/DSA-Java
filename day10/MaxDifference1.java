@@ -1,8 +1,8 @@
-package day10.assignment;
+package day10;
 
 import java.util.Scanner;
 
-public class MaxDifference2 {
+public class MaxDifference1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -20,12 +20,12 @@ public class MaxDifference2 {
         int maxNum = Integer.MIN_VALUE;
         int minNum = Integer.MAX_VALUE;
         for (int i = 0; i < n; i++) {
-            if (arr[i] + i > maxNum) {
-                maxNum = arr[i] + i;
+            if (arr[i] > maxNum) {
+                maxNum = arr[i];
             }
 
-            if (arr[i] + i < minNum) {
-                minNum = arr[i] + i;
+            if (arr[i] < minNum) {
+                minNum = arr[i];
             }
         }
         return maxNum - minNum;
@@ -36,7 +36,7 @@ public class MaxDifference2 {
         int maxDiff = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                int pairDiff = arr[i] - arr[j] + i - j;
+                int pairDiff = arr[i] - arr[j];
                 if (pairDiff > maxDiff) {
                     maxDiff = pairDiff;
                 }

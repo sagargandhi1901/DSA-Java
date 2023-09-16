@@ -1,4 +1,4 @@
-package day9.assignment;
+package day9;
 
 import java.util.Scanner;
 

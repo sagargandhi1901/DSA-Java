@@ -1,4 +1,4 @@
-package day14.assignment;
+package day14;
 
 import java.util.HashSet;
 import java.util.Scanner;

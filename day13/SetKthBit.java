@@ -1,4 +1,4 @@
-package day13.assignment;
+package day13;
 
 import java.util.Scanner;
 

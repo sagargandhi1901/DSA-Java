@@ -10,7 +10,7 @@ Day 4  : Checking more than one conditions at a time using && and || operators, 
 
 Day 5  : Break and continue, practice questions - PrintFactors, CheckPrime, PrintReverse
 
-Day 6  : Pattern printing
+Day 6  : Pattern printing - stars and numbers
 
 Day 7  : Functions introduction, Question : factorial, Permutation and combination
 
@@ -28,4 +28,4 @@ Day 13 : Bit Manipulation, bitwise operators demo, questions - check even/odd, s
 
 Day 14 : Hashmap introduction, questions using hashmap - Find frequency, find first non-repeating element, two sum (optimal), HashSet introduction, question on hashset - Distinct elements
 
-Day 15 : 
+Day 15 : Recursion introduction, problems using recursion - sum of n numbers, factorial, nth fibonacci, print increasing, print decreasing
