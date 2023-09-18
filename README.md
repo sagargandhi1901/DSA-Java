@@ -33,3 +33,5 @@ Day 15 : Recursion introduction, problems using recursion - sum of n numbers, fa
 Day 16 : Problems using recursion - Power, count of aaa, check sorted, check palindrome, first index
 
 Day 17 : Sorting, problems on sorting - order of removal, good integers (distinct and duplicate), bubble sort
+
+Day 18 : Binary search - its implementation (search in array problem), Floor in array, single element in array, square root, peak element
