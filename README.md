@@ -35,3 +35,5 @@ Day 16 : Problems using recursion - Power, count of aaa, check sorted, check pal
 Day 17 : Sorting, problems on sorting - order of removal, good integers (distinct and duplicate), bubble sort
 
 Day 18 : Binary search - its implementation (search in array problem), Floor in array, single element in array, square root, peak element
+
+Day 19 : Class and Object basics, Linked list introduction, program to print linked list 
