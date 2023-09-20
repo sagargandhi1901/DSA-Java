@@ -1,14 +1,5 @@
 package day19;
 
-class Node {
-    int val;
-    Node next;
-
-    Node (int v) {
-        val = v;
-    }
-}
-
 public class PrintLinkedList {
     public static void main(String[] args) {
         Node n1 = new Node(10);

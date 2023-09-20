@@ -37,3 +37,5 @@ Day 17 : Sorting, problems on sorting - order of removal, good integers (distinc
 Day 18 : Binary search - its implementation (search in array problem), Floor in array, single element in array, square root, peak element
 
 Day 19 : Class and Object basics, Linked list introduction, program to print linked list 
+
+Day 20 : Problems on Linked List - insertion in linked list, deletion in linked list, reverse linked list, middle of a linked list, linked list cycle (floyd's cycle)
